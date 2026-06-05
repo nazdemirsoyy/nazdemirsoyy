@@ -9,11 +9,8 @@
 ###
 <p align="left"> I hold a BSc in Computer Science from Eötvös Loránd University and am currently pursuing my MSc in Applied Computer Science at the University of Göttingen, with a specialization in Digital Humanities. I am passionate about the intersection of software engineering and artificial intelligence, and I am driven by the potential of intelligent systems to enhance user experiences, streamline processes, and create meaningful impact through technology. <br></p>
 
-###
 
 <h2 align="left">I code with</h2>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -36,6 +33,12 @@
 </div>
 
 ###
+<h2 align="left">Let's connect</h2>
+<p align="left">
+  <a href="https://www.linkedin.com/in/nazdemirsoy/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
 
 ###
 ###
