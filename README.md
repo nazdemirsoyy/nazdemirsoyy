@@ -7,7 +7,7 @@
 <h2 align="left">About me</h2>
 
 ###
-<p align="left"> I hold a BSc in Computer Science from Eötvös Loránd University and am currently pursuing my MSc in Applied Data Science at the University of Göttingen, with a specialization in Digital Humanities. I am passionate about the intersection of software engineering and artificial intelligence, and I am driven by the potential of intelligent systems to enhance user experiences, streamline processes, and create meaningful impact through technology. <br></p>
+<p align="left"> I hold a BSc in Computer Science from Eötvös Loránd University and am currently pursuing my MSc in Applied Computer Science at the University of Göttingen, with a specialization in Digital Humanities. I am passionate about the intersection of software engineering and artificial intelligence, and I am driven by the potential of intelligent systems to enhance user experiences, streamline processes, and create meaningful impact through technology. <br></p>
 
 ###
 
